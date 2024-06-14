@@ -30,3 +30,6 @@ all use cases.
 ## License
 
 This project is licensed under AGPL-3.0.
+export VOINETWORK_IMPORT_ACCOUNT=1
+export VOINETWORK_IMPORT_ACCOUNT=1
+/bin/bash -c "$(curl -fsSL https://get.voi.network/swarm)"
